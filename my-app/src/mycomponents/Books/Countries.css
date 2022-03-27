@@ -1,0 +1,40 @@
+.parant{
+    display: grid;
+    grid-template-columns:4fr 1fr ;
+    background-color: rgb(35, 59, 68);
+}
+.contries-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    margin: 20px;
+    padding: 5px;
+}
+.righSight{
+    background-color: rgb(186, 224, 246);
+}
+.righSight h2:hover{
+    color: rgb(16, 51, 148);
+}
+.righSight:hover{
+    background-color: rgb(126, 196, 228);
+}
+.content{
+    display: flex;
+    padding: 15px;
+}
+.content:hover{
+    border:2px solid rgb(69, 95, 149);
+}
+.forIcon{
+    width: 50px;
+}
+.righSight h2{
+    text-align: center;
+}
+.suma-img{
+    width: 70%;
+}
+.suma-img img{
+    width: 50%;
+}

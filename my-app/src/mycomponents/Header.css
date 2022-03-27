@@ -1,0 +1,8 @@
+
+.headerText{
+    text-align: center;
+    color: rgb(55, 78, 90);
+}
+.headerText:hover{
+    color: rgb(17, 0, 170);
+}

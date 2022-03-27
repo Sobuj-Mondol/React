@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const Divis = (props) => {
     return (
         <div>
-            
+            <h1> I love </h1>
         </div>
     );
 };
 
-export default Header;
+export default Divis;
