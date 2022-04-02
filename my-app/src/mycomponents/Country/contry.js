@@ -1,5 +1,5 @@
 import React from "react";
-const Books=(props)=>{
+const Products=(props)=>{
  
    const {name,price,id,img}=props.country;
    const handal=()=>{
@@ -22,4 +22,4 @@ const Books=(props)=>{
     );
 
 };
-export default Books;
+export default Products;
